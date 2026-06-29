@@ -1,0 +1,15 @@
+name: foto_cleaner
+description: Review dan hapus foto lama dengan swipe gesture
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  photo_manager: ^3.3.0
+  flutter_card_swiper: ^7.0.1
+
+flutter:
+  uses-material-design: true
